@@ -1,0 +1,33 @@
+Dragonite's Mod adds 2 magic bows and 2 new magic staffs, as well as a drop from the Twins' boss bag that gives an upgrade item.
+
+Also made Twins' boss bag craftable using high end items.
+
+Also added a Cheatcode to automatically give you any item you know the filename for.
+
+/Item <name>
+
+TwinsBossBag - Twins' Treasure Bag
+adrienbow1 - Adrien's Damaged Bow
+adrienstaff1 - Adrien's Damaged Staff
+AdrieniteBar - Adrienite Bar
+(and theres the post-moonlord bow and staff: just use 2 instead of 1)
+
+
+
+
+
+
+Future Releases:
+1 Boss - Drops Upgrade Item to make some of said items more powerful than some celestial items. (If I can figure out how)
+1 Summon (If I can figure out how.)
+
+Previous Updates
+1.1 (This One) Added Mod Icon and Dev Items.
+1.0 Released Mod, fixed further bugs.
+0.7 Finished Building Mod (Added Crafting Recipe for Twins' Boss Bag, fixed bugs.)
+0.6 Added better bow.
+0.5 Fixed Staffs and bow stats
+0.4 added better staff and Adrienite bar.
+0.3 added bow
+0.2 fixed staff bugs and code.
+0.1 first build, added staff.
