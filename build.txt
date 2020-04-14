@@ -1,0 +1,7 @@
+author = Dragonite
+version = 1.5.1
+displayName = Dragonite's Mod
+hideCode = true
+side = Both
+hideResouces = true
+homepage = https://github.com/SeriousDragons/DragonitesMod
